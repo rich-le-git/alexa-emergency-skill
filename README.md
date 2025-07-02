@@ -1,6 +1,6 @@
-#Alexa Emergency Skill (Hackathon Concept)
+#Alexa Emergency Skill (Hackathon Concept – Winning Project)
 
-This project was created as part of a university hackathon and is a conceptual demonstration of an Alexa First Responder Skill. It showcases how voice-activated emergency response could work in the future, using simulated data and mock functionality for demonstration purposes only.
+This project was created as part of a university hackathon, where it was selected as a winning entry. It’s a conceptual demonstration of an Alexa First Responder Skill, designed to explore how voice-activated emergency response might work in the future. The prototype uses simulated data and mock functionality for demonstration purposes only.
 
 🔧 Key Features (Prototype Only):
 Emergency Detection (Simulated):
